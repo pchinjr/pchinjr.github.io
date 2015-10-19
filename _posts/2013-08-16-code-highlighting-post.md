@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Syntax Highlighting Post
+published: false
 description: "Demo post displaying the various ways of highlighting code in Markdown."
 modified: 2014-12-23
 tags: [sample post, code, highlighting]

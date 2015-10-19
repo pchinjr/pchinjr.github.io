@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Sample Link Post"
+published: false
 description: "Example and code for using link posts."
 tags: [sample post, link post]
 comments: true
