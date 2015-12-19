@@ -16,7 +16,7 @@ date: 2015-10-19T20:34:55-04:00
 # The First Project
 
 <figure>
-<img src="http://www.movingimageeducation.org/files/Blog/blog-halloween.jpg">
+<img src="http://i.imgur.com/iYUHQln.jpg">
 </figure>
 
 After I completed a few tutorials at Codecademy, I was itching to put it into practice. The hardest part about teaching myself is staying motivated. In order to not get burned out on tutorials and sample projects creating fake portfolios, I decided to use my eight year old brain and play make believe. That's right, the skills I learned from Mr. Rogers and Sesame Street are keeping me in the game. I am now pretending that The Ghostbusters have hired me to be their web developer. Their first task for me was to get a new shiny marketing website. 
