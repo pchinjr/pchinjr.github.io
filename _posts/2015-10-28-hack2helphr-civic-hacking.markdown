@@ -28,8 +28,8 @@ It was really refreshing to see the teams working on things that would help ever
 
 I was fortunate to work with a great team that I met through the local developer groups. For the first time I experienced what it was like to go through UI development. It began with sketches on paper and then turned over to be turned into views for the Android app. 
 
+## What was built 
 
-## what we built 
-
+**[Live in the Google Play store] (https://play.google.com/store/apps/details?id=com.mateoj.hack2help)**
 
 ## What I suggest to others 
